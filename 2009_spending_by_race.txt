@@ -1,0 +1,687 @@
+year,age_group_id,age_group_name,sex_id,sex,race_ethnicity,acause,acause_name,type_care,spending_unit,val,upper,lower
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",all,All conditions,Ambulatory Care,Spending per capita in 2016 USD,2788,3524,2184
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",all,All conditions,Dental Care,Spending per capita in 2016 USD,225,321,148
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",all,All conditions,Emergency Department Care,Spending per capita in 2016 USD,473,627,294
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",all,All conditions,Inpatient Care,Spending per capita in 2016 USD,2951,4650,1422
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",all,All conditions,Nursing Facility Care,Spending per capita in 2016 USD,269,561,87
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",all,All conditions,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,1136,1421,748
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",all,All conditions,Total,Spending per capita in 2016 USD,7842,9462,6326
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",cvd,Cardiovascular diseases,Ambulatory Care,Spending per capita in 2016 USD,78,130,32
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",cvd,Cardiovascular diseases,Emergency Department Care,Spending per capita in 2016 USD,49,87,21
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",cvd,Cardiovascular diseases,Inpatient Care,Spending per capita in 2016 USD,307,616,28
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",cvd,Cardiovascular diseases,Nursing Facility Care,Spending per capita in 2016 USD,37,135,2
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",cvd,Cardiovascular diseases,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,39,58,19
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",cvd,Cardiovascular diseases,Total,Spending per capita in 2016 USD,510,821,200
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Ambulatory Care,Spending per capita in 2016 USD,6,13,0
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Emergency Department Care,Spending per capita in 2016 USD,3,11,0
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Inpatient Care,Spending per capita in 2016 USD,63,120,7
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Nursing Facility Care,Spending per capita in 2016 USD,76,179,0
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,1,2,0
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Total,Spending per capita in 2016 USD,150,276,30
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",diabetes,Diabetes mellitus,Ambulatory Care,Spending per capita in 2016 USD,139,202,56
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",diabetes,Diabetes mellitus,Emergency Department Care,Spending per capita in 2016 USD,13,25,0
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",diabetes,Diabetes mellitus,Inpatient Care,Spending per capita in 2016 USD,50,101,10
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",diabetes,Diabetes mellitus,Nursing Facility Care,Spending per capita in 2016 USD,116,302,0
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",diabetes,Diabetes mellitus,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,64,101,35
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",diabetes,Diabetes mellitus,Total,Spending per capita in 2016 USD,382,562,168
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",msk_pain,Low back and neck pain,Ambulatory Care,Spending per capita in 2016 USD,174,279,102
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",msk_pain,Low back and neck pain,Emergency Department Care,Spending per capita in 2016 USD,18,32,3
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",msk_pain,Low back and neck pain,Inpatient Care,Spending per capita in 2016 USD,128,434,0
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",msk_pain,Low back and neck pain,Nursing Facility Care,Spending per capita in 2016 USD,0,0,0
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",msk_pain,Low back and neck pain,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,26,43,15
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",msk_pain,Low back and neck pain,Total,Spending per capita in 2016 USD,346,601,159
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",resp_asthma,Asthma,Ambulatory Care,Spending per capita in 2016 USD,23,42,10
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",resp_asthma,Asthma,Emergency Department Care,Spending per capita in 2016 USD,8,20,0
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",resp_asthma,Asthma,Inpatient Care,Spending per capita in 2016 USD,6,35,0
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",resp_asthma,Asthma,Nursing Facility Care,Spending per capita in 2016 USD,1,4,0
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",resp_asthma,Asthma,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,40,57,18
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",resp_asthma,Asthma,Total,Spending per capita in 2016 USD,78,116,45
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",resp_copd,COPD,Ambulatory Care,Spending per capita in 2016 USD,14,32,1
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",resp_copd,COPD,Emergency Department Care,Spending per capita in 2016 USD,9,19,1
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",resp_copd,COPD,Inpatient Care,Spending per capita in 2016 USD,4,40,0
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",resp_copd,COPD,Nursing Facility Care,Spending per capita in 2016 USD,15,41,0
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",resp_copd,COPD,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,30,56,15
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",resp_copd,COPD,Total,Spending per capita in 2016 USD,72,125,32
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",rf_hypertension,Hypertension,Ambulatory Care,Spending per capita in 2016 USD,102,192,31
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",rf_hypertension,Hypertension,Emergency Department Care,Spending per capita in 2016 USD,7,16,0
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",rf_hypertension,Hypertension,Inpatient Care,Spending per capita in 2016 USD,7,33,0
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",rf_hypertension,Hypertension,Nursing Facility Care,Spending per capita in 2016 USD,0,0,0
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",rf_hypertension,Hypertension,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,41,57,26
+2009,22,All Ages,2,Female,"American Indian, Alaska Native (non-Hispanic)",rf_hypertension,Hypertension,Total,Spending per capita in 2016 USD,157,243,70
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",all,All conditions,Ambulatory Care,Spending per capita in 2016 USD,1514,1658,1334
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",all,All conditions,Dental Care,Spending per capita in 2016 USD,382,429,319
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",all,All conditions,Emergency Department Care,Spending per capita in 2016 USD,177,209,140
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",all,All conditions,Inpatient Care,Spending per capita in 2016 USD,1384,1680,1136
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",all,All conditions,Nursing Facility Care,Spending per capita in 2016 USD,153,216,86
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",all,All conditions,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,520,581,458
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",all,All conditions,Total,Spending per capita in 2016 USD,4131,4523,3743
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd,Cardiovascular diseases,Ambulatory Care,Spending per capita in 2016 USD,43,59,32
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd,Cardiovascular diseases,Emergency Department Care,Spending per capita in 2016 USD,16,37,4
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd,Cardiovascular diseases,Inpatient Care,Spending per capita in 2016 USD,216,307,108
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd,Cardiovascular diseases,Nursing Facility Care,Spending per capita in 2016 USD,10,20,4
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd,Cardiovascular diseases,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,17,23,14
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd,Cardiovascular diseases,Total,Spending per capita in 2016 USD,303,393,189
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Ambulatory Care,Spending per capita in 2016 USD,6,11,2
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Emergency Department Care,Spending per capita in 2016 USD,4,9,0
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Inpatient Care,Spending per capita in 2016 USD,38,61,8
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Nursing Facility Care,Spending per capita in 2016 USD,14,30,0
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,1,2,0
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Total,Spending per capita in 2016 USD,63,93,23
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",diabetes,Diabetes mellitus,Ambulatory Care,Spending per capita in 2016 USD,37,47,28
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",diabetes,Diabetes mellitus,Emergency Department Care,Spending per capita in 2016 USD,3,5,1
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",diabetes,Diabetes mellitus,Inpatient Care,Spending per capita in 2016 USD,9,23,1
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",diabetes,Diabetes mellitus,Nursing Facility Care,Spending per capita in 2016 USD,13,32,0
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",diabetes,Diabetes mellitus,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,32,39,26
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",diabetes,Diabetes mellitus,Total,Spending per capita in 2016 USD,93,118,70
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",msk_pain,Low back and neck pain,Ambulatory Care,Spending per capita in 2016 USD,108,132,76
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",msk_pain,Low back and neck pain,Emergency Department Care,Spending per capita in 2016 USD,5,9,2
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",msk_pain,Low back and neck pain,Inpatient Care,Spending per capita in 2016 USD,43,81,15
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",msk_pain,Low back and neck pain,Nursing Facility Care,Spending per capita in 2016 USD,1,4,0
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",msk_pain,Low back and neck pain,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,5,7,3
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",msk_pain,Low back and neck pain,Total,Spending per capita in 2016 USD,162,201,123
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_asthma,Asthma,Ambulatory Care,Spending per capita in 2016 USD,16,22,10
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_asthma,Asthma,Emergency Department Care,Spending per capita in 2016 USD,6,10,2
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_asthma,Asthma,Inpatient Care,Spending per capita in 2016 USD,10,18,1
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_asthma,Asthma,Nursing Facility Care,Spending per capita in 2016 USD,3,11,0
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_asthma,Asthma,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,29,37,21
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_asthma,Asthma,Total,Spending per capita in 2016 USD,64,79,49
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_copd,COPD,Ambulatory Care,Spending per capita in 2016 USD,7,11,4
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_copd,COPD,Emergency Department Care,Spending per capita in 2016 USD,3,6,0
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_copd,COPD,Inpatient Care,Spending per capita in 2016 USD,20,40,4
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_copd,COPD,Nursing Facility Care,Spending per capita in 2016 USD,5,17,0
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_copd,COPD,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,3,6,2
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_copd,COPD,Total,Spending per capita in 2016 USD,38,61,19
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",rf_hypertension,Hypertension,Ambulatory Care,Spending per capita in 2016 USD,100,126,82
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",rf_hypertension,Hypertension,Emergency Department Care,Spending per capita in 2016 USD,14,21,4
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",rf_hypertension,Hypertension,Inpatient Care,Spending per capita in 2016 USD,14,23,6
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",rf_hypertension,Hypertension,Nursing Facility Care,Spending per capita in 2016 USD,12,39,0
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",rf_hypertension,Hypertension,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,37,43,32
+2009,22,All Ages,2,Female,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",rf_hypertension,Hypertension,Total,Spending per capita in 2016 USD,177,215,148
+2009,22,All Ages,2,Female,Black (non-Hispanic),all,All conditions,Ambulatory Care,Spending per capita in 2016 USD,2094,2245,1986
+2009,22,All Ages,2,Female,Black (non-Hispanic),all,All conditions,Dental Care,Spending per capita in 2016 USD,245,277,221
+2009,22,All Ages,2,Female,Black (non-Hispanic),all,All conditions,Emergency Department Care,Spending per capita in 2016 USD,386,415,362
+2009,22,All Ages,2,Female,Black (non-Hispanic),all,All conditions,Inpatient Care,Spending per capita in 2016 USD,2639,2901,2425
+2009,22,All Ages,2,Female,Black (non-Hispanic),all,All conditions,Nursing Facility Care,Spending per capita in 2016 USD,657,796,536
+2009,22,All Ages,2,Female,Black (non-Hispanic),all,All conditions,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,893,946,842
+2009,22,All Ages,2,Female,Black (non-Hispanic),all,All conditions,Total,Spending per capita in 2016 USD,6914,7246,6639
+2009,22,All Ages,2,Female,Black (non-Hispanic),cvd,Cardiovascular diseases,Ambulatory Care,Spending per capita in 2016 USD,97,111,84
+2009,22,All Ages,2,Female,Black (non-Hispanic),cvd,Cardiovascular diseases,Emergency Department Care,Spending per capita in 2016 USD,38,50,26
+2009,22,All Ages,2,Female,Black (non-Hispanic),cvd,Cardiovascular diseases,Inpatient Care,Spending per capita in 2016 USD,491,581,412
+2009,22,All Ages,2,Female,Black (non-Hispanic),cvd,Cardiovascular diseases,Nursing Facility Care,Spending per capita in 2016 USD,99,135,64
+2009,22,All Ages,2,Female,Black (non-Hispanic),cvd,Cardiovascular diseases,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,48,53,42
+2009,22,All Ages,2,Female,Black (non-Hispanic),cvd,Cardiovascular diseases,Total,Spending per capita in 2016 USD,772,879,681
+2009,22,All Ages,2,Female,Black (non-Hispanic),cvd_stroke,Cerebrovascular disease,Ambulatory Care,Spending per capita in 2016 USD,16,21,12
+2009,22,All Ages,2,Female,Black (non-Hispanic),cvd_stroke,Cerebrovascular disease,Emergency Department Care,Spending per capita in 2016 USD,9,14,6
+2009,22,All Ages,2,Female,Black (non-Hispanic),cvd_stroke,Cerebrovascular disease,Inpatient Care,Spending per capita in 2016 USD,127,167,97
+2009,22,All Ages,2,Female,Black (non-Hispanic),cvd_stroke,Cerebrovascular disease,Nursing Facility Care,Spending per capita in 2016 USD,62,93,30
+2009,22,All Ages,2,Female,Black (non-Hispanic),cvd_stroke,Cerebrovascular disease,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,4,6,3
+2009,22,All Ages,2,Female,Black (non-Hispanic),cvd_stroke,Cerebrovascular disease,Total,Spending per capita in 2016 USD,218,269,173
+2009,22,All Ages,2,Female,Black (non-Hispanic),diabetes,Diabetes mellitus,Ambulatory Care,Spending per capita in 2016 USD,104,121,87
+2009,22,All Ages,2,Female,Black (non-Hispanic),diabetes,Diabetes mellitus,Emergency Department Care,Spending per capita in 2016 USD,16,19,13
+2009,22,All Ages,2,Female,Black (non-Hispanic),diabetes,Diabetes mellitus,Inpatient Care,Spending per capita in 2016 USD,83,107,68
+2009,22,All Ages,2,Female,Black (non-Hispanic),diabetes,Diabetes mellitus,Nursing Facility Care,Spending per capita in 2016 USD,38,64,9
+2009,22,All Ages,2,Female,Black (non-Hispanic),diabetes,Diabetes mellitus,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,72,78,66
+2009,22,All Ages,2,Female,Black (non-Hispanic),diabetes,Diabetes mellitus,Total,Spending per capita in 2016 USD,312,346,271
+2009,22,All Ages,2,Female,Black (non-Hispanic),msk_pain,Low back and neck pain,Ambulatory Care,Spending per capita in 2016 USD,118,139,100
+2009,22,All Ages,2,Female,Black (non-Hispanic),msk_pain,Low back and neck pain,Emergency Department Care,Spending per capita in 2016 USD,21,27,17
+2009,22,All Ages,2,Female,Black (non-Hispanic),msk_pain,Low back and neck pain,Inpatient Care,Spending per capita in 2016 USD,136,184,87
+2009,22,All Ages,2,Female,Black (non-Hispanic),msk_pain,Low back and neck pain,Nursing Facility Care,Spending per capita in 2016 USD,2,4,0
+2009,22,All Ages,2,Female,Black (non-Hispanic),msk_pain,Low back and neck pain,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,12,14,9
+2009,22,All Ages,2,Female,Black (non-Hispanic),msk_pain,Low back and neck pain,Total,Spending per capita in 2016 USD,288,335,242
+2009,22,All Ages,2,Female,Black (non-Hispanic),resp_asthma,Asthma,Ambulatory Care,Spending per capita in 2016 USD,28,35,22
+2009,22,All Ages,2,Female,Black (non-Hispanic),resp_asthma,Asthma,Emergency Department Care,Spending per capita in 2016 USD,23,27,19
+2009,22,All Ages,2,Female,Black (non-Hispanic),resp_asthma,Asthma,Inpatient Care,Spending per capita in 2016 USD,51,63,41
+2009,22,All Ages,2,Female,Black (non-Hispanic),resp_asthma,Asthma,Nursing Facility Care,Spending per capita in 2016 USD,0,1,0
+2009,22,All Ages,2,Female,Black (non-Hispanic),resp_asthma,Asthma,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,62,71,55
+2009,22,All Ages,2,Female,Black (non-Hispanic),resp_asthma,Asthma,Total,Spending per capita in 2016 USD,164,181,149
+2009,22,All Ages,2,Female,Black (non-Hispanic),resp_copd,COPD,Ambulatory Care,Spending per capita in 2016 USD,10,14,7
+2009,22,All Ages,2,Female,Black (non-Hispanic),resp_copd,COPD,Emergency Department Care,Spending per capita in 2016 USD,12,16,9
+2009,22,All Ages,2,Female,Black (non-Hispanic),resp_copd,COPD,Inpatient Care,Spending per capita in 2016 USD,55,75,37
+2009,22,All Ages,2,Female,Black (non-Hispanic),resp_copd,COPD,Nursing Facility Care,Spending per capita in 2016 USD,5,12,0
+2009,22,All Ages,2,Female,Black (non-Hispanic),resp_copd,COPD,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,14,17,10
+2009,22,All Ages,2,Female,Black (non-Hispanic),resp_copd,COPD,Total,Spending per capita in 2016 USD,96,117,78
+2009,22,All Ages,2,Female,Black (non-Hispanic),rf_hypertension,Hypertension,Ambulatory Care,Spending per capita in 2016 USD,176,191,155
+2009,22,All Ages,2,Female,Black (non-Hispanic),rf_hypertension,Hypertension,Emergency Department Care,Spending per capita in 2016 USD,35,41,28
+2009,22,All Ages,2,Female,Black (non-Hispanic),rf_hypertension,Hypertension,Inpatient Care,Spending per capita in 2016 USD,49,57,38
+2009,22,All Ages,2,Female,Black (non-Hispanic),rf_hypertension,Hypertension,Nursing Facility Care,Spending per capita in 2016 USD,46,71,28
+2009,22,All Ages,2,Female,Black (non-Hispanic),rf_hypertension,Hypertension,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,72,77,67
+2009,22,All Ages,2,Female,Black (non-Hispanic),rf_hypertension,Hypertension,Total,Spending per capita in 2016 USD,379,415,348
+2009,22,All Ages,2,Female,Hispanic,all,All conditions,Ambulatory Care,Spending per capita in 2016 USD,1516,1578,1438
+2009,22,All Ages,2,Female,Hispanic,all,All conditions,Dental Care,Spending per capita in 2016 USD,254,280,232
+2009,22,All Ages,2,Female,Hispanic,all,All conditions,Emergency Department Care,Spending per capita in 2016 USD,320,350,290
+2009,22,All Ages,2,Female,Hispanic,all,All conditions,Inpatient Care,Spending per capita in 2016 USD,1584,1772,1410
+2009,22,All Ages,2,Female,Hispanic,all,All conditions,Nursing Facility Care,Spending per capita in 2016 USD,215,264,144
+2009,22,All Ages,2,Female,Hispanic,all,All conditions,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,548,581,507
+2009,22,All Ages,2,Female,Hispanic,all,All conditions,Total,Spending per capita in 2016 USD,4437,4626,4202
+2009,22,All Ages,2,Female,Hispanic,cvd,Cardiovascular diseases,Ambulatory Care,Spending per capita in 2016 USD,57,69,46
+2009,22,All Ages,2,Female,Hispanic,cvd,Cardiovascular diseases,Emergency Department Care,Spending per capita in 2016 USD,24,32,18
+2009,22,All Ages,2,Female,Hispanic,cvd,Cardiovascular diseases,Inpatient Care,Spending per capita in 2016 USD,191,245,138
+2009,22,All Ages,2,Female,Hispanic,cvd,Cardiovascular diseases,Nursing Facility Care,Spending per capita in 2016 USD,27,40,16
+2009,22,All Ages,2,Female,Hispanic,cvd,Cardiovascular diseases,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,25,31,21
+2009,22,All Ages,2,Female,Hispanic,cvd,Cardiovascular diseases,Total,Spending per capita in 2016 USD,325,386,274
+2009,22,All Ages,2,Female,Hispanic,cvd_stroke,Cerebrovascular disease,Ambulatory Care,Spending per capita in 2016 USD,5,6,3
+2009,22,All Ages,2,Female,Hispanic,cvd_stroke,Cerebrovascular disease,Emergency Department Care,Spending per capita in 2016 USD,4,5,2
+2009,22,All Ages,2,Female,Hispanic,cvd_stroke,Cerebrovascular disease,Inpatient Care,Spending per capita in 2016 USD,39,56,26
+2009,22,All Ages,2,Female,Hispanic,cvd_stroke,Cerebrovascular disease,Nursing Facility Care,Spending per capita in 2016 USD,8,19,1
+2009,22,All Ages,2,Female,Hispanic,cvd_stroke,Cerebrovascular disease,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,1,2,1
+2009,22,All Ages,2,Female,Hispanic,cvd_stroke,Cerebrovascular disease,Total,Spending per capita in 2016 USD,57,78,38
+2009,22,All Ages,2,Female,Hispanic,diabetes,Diabetes mellitus,Ambulatory Care,Spending per capita in 2016 USD,58,66,46
+2009,22,All Ages,2,Female,Hispanic,diabetes,Diabetes mellitus,Emergency Department Care,Spending per capita in 2016 USD,9,12,6
+2009,22,All Ages,2,Female,Hispanic,diabetes,Diabetes mellitus,Inpatient Care,Spending per capita in 2016 USD,31,39,18
+2009,22,All Ages,2,Female,Hispanic,diabetes,Diabetes mellitus,Nursing Facility Care,Spending per capita in 2016 USD,18,32,5
+2009,22,All Ages,2,Female,Hispanic,diabetes,Diabetes mellitus,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,44,48,37
+2009,22,All Ages,2,Female,Hispanic,diabetes,Diabetes mellitus,Total,Spending per capita in 2016 USD,160,177,139
+2009,22,All Ages,2,Female,Hispanic,msk_pain,Low back and neck pain,Ambulatory Care,Spending per capita in 2016 USD,80,94,64
+2009,22,All Ages,2,Female,Hispanic,msk_pain,Low back and neck pain,Emergency Department Care,Spending per capita in 2016 USD,15,19,12
+2009,22,All Ages,2,Female,Hispanic,msk_pain,Low back and neck pain,Inpatient Care,Spending per capita in 2016 USD,45,73,17
+2009,22,All Ages,2,Female,Hispanic,msk_pain,Low back and neck pain,Nursing Facility Care,Spending per capita in 2016 USD,1,3,0
+2009,22,All Ages,2,Female,Hispanic,msk_pain,Low back and neck pain,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,6,8,5
+2009,22,All Ages,2,Female,Hispanic,msk_pain,Low back and neck pain,Total,Spending per capita in 2016 USD,147,186,117
+2009,22,All Ages,2,Female,Hispanic,resp_asthma,Asthma,Ambulatory Care,Spending per capita in 2016 USD,22,27,17
+2009,22,All Ages,2,Female,Hispanic,resp_asthma,Asthma,Emergency Department Care,Spending per capita in 2016 USD,15,19,12
+2009,22,All Ages,2,Female,Hispanic,resp_asthma,Asthma,Inpatient Care,Spending per capita in 2016 USD,24,31,15
+2009,22,All Ages,2,Female,Hispanic,resp_asthma,Asthma,Nursing Facility Care,Spending per capita in 2016 USD,0,2,0
+2009,22,All Ages,2,Female,Hispanic,resp_asthma,Asthma,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,41,50,33
+2009,22,All Ages,2,Female,Hispanic,resp_asthma,Asthma,Total,Spending per capita in 2016 USD,102,114,91
+2009,22,All Ages,2,Female,Hispanic,resp_copd,COPD,Ambulatory Care,Spending per capita in 2016 USD,7,9,5
+2009,22,All Ages,2,Female,Hispanic,resp_copd,COPD,Emergency Department Care,Spending per capita in 2016 USD,5,8,3
+2009,22,All Ages,2,Female,Hispanic,resp_copd,COPD,Inpatient Care,Spending per capita in 2016 USD,18,29,3
+2009,22,All Ages,2,Female,Hispanic,resp_copd,COPD,Nursing Facility Care,Spending per capita in 2016 USD,5,11,0
+2009,22,All Ages,2,Female,Hispanic,resp_copd,COPD,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,3,5,2
+2009,22,All Ages,2,Female,Hispanic,resp_copd,COPD,Total,Spending per capita in 2016 USD,38,51,23
+2009,22,All Ages,2,Female,Hispanic,rf_hypertension,Hypertension,Ambulatory Care,Spending per capita in 2016 USD,87,100,77
+2009,22,All Ages,2,Female,Hispanic,rf_hypertension,Hypertension,Emergency Department Care,Spending per capita in 2016 USD,16,18,12
+2009,22,All Ages,2,Female,Hispanic,rf_hypertension,Hypertension,Inpatient Care,Spending per capita in 2016 USD,23,28,18
+2009,22,All Ages,2,Female,Hispanic,rf_hypertension,Hypertension,Nursing Facility Care,Spending per capita in 2016 USD,9,19,0
+2009,22,All Ages,2,Female,Hispanic,rf_hypertension,Hypertension,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,26,28,23
+2009,22,All Ages,2,Female,Hispanic,rf_hypertension,Hypertension,Total,Spending per capita in 2016 USD,160,182,144
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),all,All conditions,Ambulatory Care,Spending per capita in 2016 USD,2157,2464,1872
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),all,All conditions,Dental Care,Spending per capita in 2016 USD,391,470,320
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),all,All conditions,Emergency Department Care,Spending per capita in 2016 USD,346,400,302
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),all,All conditions,Inpatient Care,Spending per capita in 2016 USD,2039,2621,1677
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),all,All conditions,Nursing Facility Care,Spending per capita in 2016 USD,133,225,71
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),all,All conditions,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,941,1121,832
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),all,All conditions,Total,Spending per capita in 2016 USD,6006,6726,5446
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),cvd,Cardiovascular diseases,Ambulatory Care,Spending per capita in 2016 USD,83,118,57
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),cvd,Cardiovascular diseases,Emergency Department Care,Spending per capita in 2016 USD,21,41,6
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),cvd,Cardiovascular diseases,Inpatient Care,Spending per capita in 2016 USD,210,336,72
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),cvd,Cardiovascular diseases,Nursing Facility Care,Spending per capita in 2016 USD,17,49,4
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),cvd,Cardiovascular diseases,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,31,46,18
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),cvd,Cardiovascular diseases,Total,Spending per capita in 2016 USD,362,486,234
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),cvd_stroke,Cerebrovascular disease,Ambulatory Care,Spending per capita in 2016 USD,9,21,1
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),cvd_stroke,Cerebrovascular disease,Emergency Department Care,Spending per capita in 2016 USD,5,11,0
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),cvd_stroke,Cerebrovascular disease,Inpatient Care,Spending per capita in 2016 USD,42,99,1
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),cvd_stroke,Cerebrovascular disease,Nursing Facility Care,Spending per capita in 2016 USD,2,10,0
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),cvd_stroke,Cerebrovascular disease,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,2,3,0
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),cvd_stroke,Cerebrovascular disease,Total,Spending per capita in 2016 USD,59,121,17
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),diabetes,Diabetes mellitus,Ambulatory Care,Spending per capita in 2016 USD,49,61,37
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),diabetes,Diabetes mellitus,Emergency Department Care,Spending per capita in 2016 USD,6,10,1
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),diabetes,Diabetes mellitus,Inpatient Care,Spending per capita in 2016 USD,25,45,8
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),diabetes,Diabetes mellitus,Nursing Facility Care,Spending per capita in 2016 USD,0,0,0
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),diabetes,Diabetes mellitus,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,46,61,35
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),diabetes,Diabetes mellitus,Total,Spending per capita in 2016 USD,125,154,100
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),msk_pain,Low back and neck pain,Ambulatory Care,Spending per capita in 2016 USD,162,216,104
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),msk_pain,Low back and neck pain,Emergency Department Care,Spending per capita in 2016 USD,10,22,2
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),msk_pain,Low back and neck pain,Inpatient Care,Spending per capita in 2016 USD,52,124,1
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),msk_pain,Low back and neck pain,Nursing Facility Care,Spending per capita in 2016 USD,0,0,0
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),msk_pain,Low back and neck pain,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,13,19,8
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),msk_pain,Low back and neck pain,Total,Spending per capita in 2016 USD,237,352,145
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),resp_asthma,Asthma,Ambulatory Care,Spending per capita in 2016 USD,39,52,27
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),resp_asthma,Asthma,Emergency Department Care,Spending per capita in 2016 USD,14,24,4
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),resp_asthma,Asthma,Inpatient Care,Spending per capita in 2016 USD,30,51,4
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),resp_asthma,Asthma,Nursing Facility Care,Spending per capita in 2016 USD,2,8,0
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),resp_asthma,Asthma,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,97,122,75
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),resp_asthma,Asthma,Total,Spending per capita in 2016 USD,181,218,145
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),resp_copd,COPD,Ambulatory Care,Spending per capita in 2016 USD,13,24,6
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),resp_copd,COPD,Emergency Department Care,Spending per capita in 2016 USD,11,21,2
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),resp_copd,COPD,Inpatient Care,Spending per capita in 2016 USD,38,111,1
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),resp_copd,COPD,Nursing Facility Care,Spending per capita in 2016 USD,25,57,2
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),resp_copd,COPD,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,20,35,9
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),resp_copd,COPD,Total,Spending per capita in 2016 USD,107,179,57
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),rf_hypertension,Hypertension,Ambulatory Care,Spending per capita in 2016 USD,104,153,68
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),rf_hypertension,Hypertension,Emergency Department Care,Spending per capita in 2016 USD,9,22,2
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),rf_hypertension,Hypertension,Inpatient Care,Spending per capita in 2016 USD,14,26,2
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),rf_hypertension,Hypertension,Nursing Facility Care,Spending per capita in 2016 USD,29,81,0
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),rf_hypertension,Hypertension,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,29,35,25
+2009,22,All Ages,2,Female,Multiple races (non-Hispanic),rf_hypertension,Hypertension,Total,Spending per capita in 2016 USD,186,239,134
+2009,22,All Ages,2,Female,Total,all,All conditions,Ambulatory Care,Spending per capita in 2016 USD,2743,2775,2704
+2009,22,All Ages,2,Female,Total,all,All conditions,Dental Care,Spending per capita in 2016 USD,412,424,405
+2009,22,All Ages,2,Female,Total,all,All conditions,Emergency Department Care,Spending per capita in 2016 USD,356,359,352
+2009,22,All Ages,2,Female,Total,all,All conditions,Inpatient Care,Spending per capita in 2016 USD,2246,2271,2211
+2009,22,All Ages,2,Female,Total,all,All conditions,Nursing Facility Care,Spending per capita in 2016 USD,781,795,763
+2009,22,All Ages,2,Female,Total,all,All conditions,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,1069,1083,1056
+2009,22,All Ages,2,Female,Total,all,All conditions,Total,Spending per capita in 2016 USD,7607,7658,7548
+2009,22,All Ages,2,Female,Total,cvd,Cardiovascular diseases,Ambulatory Care,Spending per capita in 2016 USD,134,148,121
+2009,22,All Ages,2,Female,Total,cvd,Cardiovascular diseases,Emergency Department Care,Spending per capita in 2016 USD,29,32,27
+2009,22,All Ages,2,Female,Total,cvd,Cardiovascular diseases,Inpatient Care,Spending per capita in 2016 USD,349,367,328
+2009,22,All Ages,2,Female,Total,cvd,Cardiovascular diseases,Nursing Facility Care,Spending per capita in 2016 USD,127,136,118
+2009,22,All Ages,2,Female,Total,cvd,Cardiovascular diseases,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,47,50,45
+2009,22,All Ages,2,Female,Total,cvd,Cardiovascular diseases,Total,Spending per capita in 2016 USD,687,711,656
+2009,22,All Ages,2,Female,Total,cvd_stroke,Cerebrovascular disease,Ambulatory Care,Spending per capita in 2016 USD,11,12,9
+2009,22,All Ages,2,Female,Total,cvd_stroke,Cerebrovascular disease,Emergency Department Care,Spending per capita in 2016 USD,5,6,4
+2009,22,All Ages,2,Female,Total,cvd_stroke,Cerebrovascular disease,Inpatient Care,Spending per capita in 2016 USD,54,62,46
+2009,22,All Ages,2,Female,Total,cvd_stroke,Cerebrovascular disease,Nursing Facility Care,Spending per capita in 2016 USD,58,66,52
+2009,22,All Ages,2,Female,Total,cvd_stroke,Cerebrovascular disease,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,3,3,2
+2009,22,All Ages,2,Female,Total,cvd_stroke,Cerebrovascular disease,Total,Spending per capita in 2016 USD,131,142,119
+2009,22,All Ages,2,Female,Total,diabetes,Diabetes mellitus,Ambulatory Care,Spending per capita in 2016 USD,69,76,62
+2009,22,All Ages,2,Female,Total,diabetes,Diabetes mellitus,Emergency Department Care,Spending per capita in 2016 USD,5,6,5
+2009,22,All Ages,2,Female,Total,diabetes,Diabetes mellitus,Inpatient Care,Spending per capita in 2016 USD,25,27,23
+2009,22,All Ages,2,Female,Total,diabetes,Diabetes mellitus,Nursing Facility Care,Spending per capita in 2016 USD,27,31,24
+2009,22,All Ages,2,Female,Total,diabetes,Diabetes mellitus,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,52,56,49
+2009,22,All Ages,2,Female,Total,diabetes,Diabetes mellitus,Total,Spending per capita in 2016 USD,179,188,169
+2009,22,All Ages,2,Female,Total,msk_pain,Low back and neck pain,Ambulatory Care,Spending per capita in 2016 USD,186,198,171
+2009,22,All Ages,2,Female,Total,msk_pain,Low back and neck pain,Emergency Department Care,Spending per capita in 2016 USD,13,13,12
+2009,22,All Ages,2,Female,Total,msk_pain,Low back and neck pain,Inpatient Care,Spending per capita in 2016 USD,87,92,82
+2009,22,All Ages,2,Female,Total,msk_pain,Low back and neck pain,Nursing Facility Care,Spending per capita in 2016 USD,7,10,5
+2009,22,All Ages,2,Female,Total,msk_pain,Low back and neck pain,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,14,16,13
+2009,22,All Ages,2,Female,Total,msk_pain,Low back and neck pain,Total,Spending per capita in 2016 USD,306,319,291
+2009,22,All Ages,2,Female,Total,resp_asthma,Asthma,Ambulatory Care,Spending per capita in 2016 USD,25,29,21
+2009,22,All Ages,2,Female,Total,resp_asthma,Asthma,Emergency Department Care,Spending per capita in 2016 USD,10,10,9
+2009,22,All Ages,2,Female,Total,resp_asthma,Asthma,Inpatient Care,Spending per capita in 2016 USD,19,21,18
+2009,22,All Ages,2,Female,Total,resp_asthma,Asthma,Nursing Facility Care,Spending per capita in 2016 USD,2,3,1
+2009,22,All Ages,2,Female,Total,resp_asthma,Asthma,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,63,68,58
+2009,22,All Ages,2,Female,Total,resp_asthma,Asthma,Total,Spending per capita in 2016 USD,118,125,112
+2009,22,All Ages,2,Female,Total,resp_copd,COPD,Ambulatory Care,Spending per capita in 2016 USD,19,22,17
+2009,22,All Ages,2,Female,Total,resp_copd,COPD,Emergency Department Care,Spending per capita in 2016 USD,7,8,6
+2009,22,All Ages,2,Female,Total,resp_copd,COPD,Inpatient Care,Spending per capita in 2016 USD,34,38,31
+2009,22,All Ages,2,Female,Total,resp_copd,COPD,Nursing Facility Care,Spending per capita in 2016 USD,16,18,14
+2009,22,All Ages,2,Female,Total,resp_copd,COPD,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,21,24,18
+2009,22,All Ages,2,Female,Total,resp_copd,COPD,Total,Spending per capita in 2016 USD,97,103,91
+2009,22,All Ages,2,Female,Total,rf_hypertension,Hypertension,Ambulatory Care,Spending per capita in 2016 USD,126,137,117
+2009,22,All Ages,2,Female,Total,rf_hypertension,Hypertension,Emergency Department Care,Spending per capita in 2016 USD,13,14,11
+2009,22,All Ages,2,Female,Total,rf_hypertension,Hypertension,Inpatient Care,Spending per capita in 2016 USD,17,18,15
+2009,22,All Ages,2,Female,Total,rf_hypertension,Hypertension,Nursing Facility Care,Spending per capita in 2016 USD,28,31,25
+2009,22,All Ages,2,Female,Total,rf_hypertension,Hypertension,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,50,52,48
+2009,22,All Ages,2,Female,Total,rf_hypertension,Hypertension,Total,Spending per capita in 2016 USD,233,244,225
+2009,22,All Ages,2,Female,White (non-Hispanic),all,All conditions,Ambulatory Care,Spending per capita in 2016 USD,3280,3333,3227
+2009,22,All Ages,2,Female,White (non-Hispanic),all,All conditions,Dental Care,Spending per capita in 2016 USD,489,501,472
+2009,22,All Ages,2,Female,White (non-Hispanic),all,All conditions,Emergency Department Care,Spending per capita in 2016 USD,371,380,362
+2009,22,All Ages,2,Female,White (non-Hispanic),all,All conditions,Inpatient Care,Spending per capita in 2016 USD,2395,2464,2304
+2009,22,All Ages,2,Female,White (non-Hispanic),all,All conditions,Nursing Facility Care,Spending per capita in 2016 USD,1015,1053,979
+2009,22,All Ages,2,Female,White (non-Hispanic),all,All conditions,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,1275,1304,1255
+2009,22,All Ages,2,Female,White (non-Hispanic),all,All conditions,Total,Spending per capita in 2016 USD,8825,8934,8702
+2009,22,All Ages,2,Female,White (non-Hispanic),cvd,Cardiovascular diseases,Ambulatory Care,Spending per capita in 2016 USD,170,187,151
+2009,22,All Ages,2,Female,White (non-Hispanic),cvd,Cardiovascular diseases,Emergency Department Care,Spending per capita in 2016 USD,29,34,25
+2009,22,All Ages,2,Female,White (non-Hispanic),cvd,Cardiovascular diseases,Inpatient Care,Spending per capita in 2016 USD,374,399,341
+2009,22,All Ages,2,Female,White (non-Hispanic),cvd,Cardiovascular diseases,Nursing Facility Care,Spending per capita in 2016 USD,170,185,156
+2009,22,All Ages,2,Female,White (non-Hispanic),cvd,Cardiovascular diseases,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,56,59,52
+2009,22,All Ages,2,Female,White (non-Hispanic),cvd,Cardiovascular diseases,Total,Spending per capita in 2016 USD,799,837,743
+2009,22,All Ages,2,Female,White (non-Hispanic),cvd_stroke,Cerebrovascular disease,Ambulatory Care,Spending per capita in 2016 USD,12,14,9
+2009,22,All Ages,2,Female,White (non-Hispanic),cvd_stroke,Cerebrovascular disease,Emergency Department Care,Spending per capita in 2016 USD,4,5,3
+2009,22,All Ages,2,Female,White (non-Hispanic),cvd_stroke,Cerebrovascular disease,Inpatient Care,Spending per capita in 2016 USD,45,52,35
+2009,22,All Ages,2,Female,White (non-Hispanic),cvd_stroke,Cerebrovascular disease,Nursing Facility Care,Spending per capita in 2016 USD,75,88,64
+2009,22,All Ages,2,Female,White (non-Hispanic),cvd_stroke,Cerebrovascular disease,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,3,4,2
+2009,22,All Ages,2,Female,White (non-Hispanic),cvd_stroke,Cerebrovascular disease,Total,Spending per capita in 2016 USD,138,153,125
+2009,22,All Ages,2,Female,White (non-Hispanic),diabetes,Diabetes mellitus,Ambulatory Care,Spending per capita in 2016 USD,67,75,60
+2009,22,All Ages,2,Female,White (non-Hispanic),diabetes,Diabetes mellitus,Emergency Department Care,Spending per capita in 2016 USD,3,3,2
+2009,22,All Ages,2,Female,White (non-Hispanic),diabetes,Diabetes mellitus,Inpatient Care,Spending per capita in 2016 USD,13,16,9
+2009,22,All Ages,2,Female,White (non-Hispanic),diabetes,Diabetes mellitus,Nursing Facility Care,Spending per capita in 2016 USD,28,35,22
+2009,22,All Ages,2,Female,White (non-Hispanic),diabetes,Diabetes mellitus,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,52,57,48
+2009,22,All Ages,2,Female,White (non-Hispanic),diabetes,Diabetes mellitus,Total,Spending per capita in 2016 USD,163,175,152
+2009,22,All Ages,2,Female,White (non-Hispanic),msk_pain,Low back and neck pain,Ambulatory Care,Spending per capita in 2016 USD,232,248,214
+2009,22,All Ages,2,Female,White (non-Hispanic),msk_pain,Low back and neck pain,Emergency Department Care,Spending per capita in 2016 USD,11,12,10
+2009,22,All Ages,2,Female,White (non-Hispanic),msk_pain,Low back and neck pain,Inpatient Care,Spending per capita in 2016 USD,91,107,79
+2009,22,All Ages,2,Female,White (non-Hispanic),msk_pain,Low back and neck pain,Nursing Facility Care,Spending per capita in 2016 USD,10,15,8
+2009,22,All Ages,2,Female,White (non-Hispanic),msk_pain,Low back and neck pain,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,17,19,15
+2009,22,All Ages,2,Female,White (non-Hispanic),msk_pain,Low back and neck pain,Total,Spending per capita in 2016 USD,361,380,337
+2009,22,All Ages,2,Female,White (non-Hispanic),resp_asthma,Asthma,Ambulatory Care,Spending per capita in 2016 USD,25,30,21
+2009,22,All Ages,2,Female,White (non-Hispanic),resp_asthma,Asthma,Emergency Department Care,Spending per capita in 2016 USD,6,7,5
+2009,22,All Ages,2,Female,White (non-Hispanic),resp_asthma,Asthma,Inpatient Care,Spending per capita in 2016 USD,13,15,10
+2009,22,All Ages,2,Female,White (non-Hispanic),resp_asthma,Asthma,Nursing Facility Care,Spending per capita in 2016 USD,3,4,2
+2009,22,All Ages,2,Female,White (non-Hispanic),resp_asthma,Asthma,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,70,77,64
+2009,22,All Ages,2,Female,White (non-Hispanic),resp_asthma,Asthma,Total,Spending per capita in 2016 USD,116,127,107
+2009,22,All Ages,2,Female,White (non-Hispanic),resp_copd,COPD,Ambulatory Care,Spending per capita in 2016 USD,25,29,22
+2009,22,All Ages,2,Female,White (non-Hispanic),resp_copd,COPD,Emergency Department Care,Spending per capita in 2016 USD,7,8,6
+2009,22,All Ages,2,Female,White (non-Hispanic),resp_copd,COPD,Inpatient Care,Spending per capita in 2016 USD,35,41,29
+2009,22,All Ages,2,Female,White (non-Hispanic),resp_copd,COPD,Nursing Facility Care,Spending per capita in 2016 USD,21,24,18
+2009,22,All Ages,2,Female,White (non-Hispanic),resp_copd,COPD,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,28,32,24
+2009,22,All Ages,2,Female,White (non-Hispanic),resp_copd,COPD,Total,Spending per capita in 2016 USD,115,126,107
+2009,22,All Ages,2,Female,White (non-Hispanic),rf_hypertension,Hypertension,Ambulatory Care,Spending per capita in 2016 USD,129,138,119
+2009,22,All Ages,2,Female,White (non-Hispanic),rf_hypertension,Hypertension,Emergency Department Care,Spending per capita in 2016 USD,8,10,7
+2009,22,All Ages,2,Female,White (non-Hispanic),rf_hypertension,Hypertension,Inpatient Care,Spending per capita in 2016 USD,9,10,7
+2009,22,All Ages,2,Female,White (non-Hispanic),rf_hypertension,Hypertension,Nursing Facility Care,Spending per capita in 2016 USD,30,36,24
+2009,22,All Ages,2,Female,White (non-Hispanic),rf_hypertension,Hypertension,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,53,55,51
+2009,22,All Ages,2,Female,White (non-Hispanic),rf_hypertension,Hypertension,Total,Spending per capita in 2016 USD,229,239,217
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",all,All conditions,Ambulatory Care,Spending per capita in 2016 USD,1241,1540,843
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",all,All conditions,Dental Care,Spending per capita in 2016 USD,188,287,84
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",all,All conditions,Emergency Department Care,Spending per capita in 2016 USD,337,498,154
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",all,All conditions,Inpatient Care,Spending per capita in 2016 USD,1758,2424,1028
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",all,All conditions,Nursing Facility Care,Spending per capita in 2016 USD,135,402,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",all,All conditions,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,638,857,439
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",all,All conditions,Total,Spending per capita in 2016 USD,4297,5164,3427
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",cvd,Cardiovascular diseases,Ambulatory Care,Spending per capita in 2016 USD,89,144,41
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",cvd,Cardiovascular diseases,Emergency Department Care,Spending per capita in 2016 USD,25,76,3
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",cvd,Cardiovascular diseases,Inpatient Care,Spending per capita in 2016 USD,534,1296,189
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",cvd,Cardiovascular diseases,Nursing Facility Care,Spending per capita in 2016 USD,3,19,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",cvd,Cardiovascular diseases,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,47,81,15
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",cvd,Cardiovascular diseases,Total,Spending per capita in 2016 USD,698,1452,346
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Ambulatory Care,Spending per capita in 2016 USD,9,24,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Emergency Department Care,Spending per capita in 2016 USD,8,19,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Inpatient Care,Spending per capita in 2016 USD,63,165,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Nursing Facility Care,Spending per capita in 2016 USD,14,70,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,1,2,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Total,Spending per capita in 2016 USD,94,203,21
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",diabetes,Diabetes mellitus,Ambulatory Care,Spending per capita in 2016 USD,91,149,41
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",diabetes,Diabetes mellitus,Emergency Department Care,Spending per capita in 2016 USD,8,23,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",diabetes,Diabetes mellitus,Inpatient Care,Spending per capita in 2016 USD,0,0,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",diabetes,Diabetes mellitus,Nursing Facility Care,Spending per capita in 2016 USD,10,90,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",diabetes,Diabetes mellitus,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,72,117,33
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",diabetes,Diabetes mellitus,Total,Spending per capita in 2016 USD,182,261,102
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",msk_pain,Low back and neck pain,Ambulatory Care,Spending per capita in 2016 USD,56,80,37
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",msk_pain,Low back and neck pain,Emergency Department Care,Spending per capita in 2016 USD,7,17,1
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",msk_pain,Low back and neck pain,Inpatient Care,Spending per capita in 2016 USD,0,0,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",msk_pain,Low back and neck pain,Nursing Facility Care,Spending per capita in 2016 USD,0,0,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",msk_pain,Low back and neck pain,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,16,27,4
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",msk_pain,Low back and neck pain,Total,Spending per capita in 2016 USD,80,112,50
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",resp_asthma,Asthma,Ambulatory Care,Spending per capita in 2016 USD,10,24,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",resp_asthma,Asthma,Emergency Department Care,Spending per capita in 2016 USD,2,7,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",resp_asthma,Asthma,Inpatient Care,Spending per capita in 2016 USD,24,78,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",resp_asthma,Asthma,Nursing Facility Care,Spending per capita in 2016 USD,0,1,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",resp_asthma,Asthma,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,56,85,27
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",resp_asthma,Asthma,Total,Spending per capita in 2016 USD,92,154,49
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",resp_copd,COPD,Ambulatory Care,Spending per capita in 2016 USD,14,27,3
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",resp_copd,COPD,Emergency Department Care,Spending per capita in 2016 USD,7,17,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",resp_copd,COPD,Inpatient Care,Spending per capita in 2016 USD,11,70,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",resp_copd,COPD,Nursing Facility Care,Spending per capita in 2016 USD,2,13,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",resp_copd,COPD,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,11,22,5
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",resp_copd,COPD,Total,Spending per capita in 2016 USD,46,117,17
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",rf_hypertension,Hypertension,Ambulatory Care,Spending per capita in 2016 USD,96,136,47
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",rf_hypertension,Hypertension,Emergency Department Care,Spending per capita in 2016 USD,15,28,1
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",rf_hypertension,Hypertension,Inpatient Care,Spending per capita in 2016 USD,13,37,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",rf_hypertension,Hypertension,Nursing Facility Care,Spending per capita in 2016 USD,0,0,0
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",rf_hypertension,Hypertension,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,38,50,23
+2009,22,All Ages,1,Male,"American Indian, Alaska Native (non-Hispanic)",rf_hypertension,Hypertension,Total,Spending per capita in 2016 USD,162,241,108
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",all,All conditions,Ambulatory Care,Spending per capita in 2016 USD,953,1060,839
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",all,All conditions,Dental Care,Spending per capita in 2016 USD,328,374,265
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",all,All conditions,Emergency Department Care,Spending per capita in 2016 USD,154,192,121
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",all,All conditions,Inpatient Care,Spending per capita in 2016 USD,1368,1897,1076
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",all,All conditions,Nursing Facility Care,Spending per capita in 2016 USD,76,153,14
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",all,All conditions,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,509,619,433
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",all,All conditions,Total,Spending per capita in 2016 USD,3388,3892,3000
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd,Cardiovascular diseases,Ambulatory Care,Spending per capita in 2016 USD,66,106,43
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd,Cardiovascular diseases,Emergency Department Care,Spending per capita in 2016 USD,13,25,5
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd,Cardiovascular diseases,Inpatient Care,Spending per capita in 2016 USD,346,520,237
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd,Cardiovascular diseases,Nursing Facility Care,Spending per capita in 2016 USD,10,27,0
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd,Cardiovascular diseases,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,32,43,22
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd,Cardiovascular diseases,Total,Spending per capita in 2016 USD,468,644,353
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Ambulatory Care,Spending per capita in 2016 USD,6,11,4
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Emergency Department Care,Spending per capita in 2016 USD,6,13,1
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Inpatient Care,Spending per capita in 2016 USD,60,101,31
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Nursing Facility Care,Spending per capita in 2016 USD,5,17,0
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,2,3,1
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",cvd_stroke,Cerebrovascular disease,Total,Spending per capita in 2016 USD,79,117,48
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",diabetes,Diabetes mellitus,Ambulatory Care,Spending per capita in 2016 USD,55,75,42
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",diabetes,Diabetes mellitus,Emergency Department Care,Spending per capita in 2016 USD,2,4,1
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",diabetes,Diabetes mellitus,Inpatient Care,Spending per capita in 2016 USD,21,40,8
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",diabetes,Diabetes mellitus,Nursing Facility Care,Spending per capita in 2016 USD,1,7,0
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",diabetes,Diabetes mellitus,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,40,46,34
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",diabetes,Diabetes mellitus,Total,Spending per capita in 2016 USD,119,148,98
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",msk_pain,Low back and neck pain,Ambulatory Care,Spending per capita in 2016 USD,63,80,46
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",msk_pain,Low back and neck pain,Emergency Department Care,Spending per capita in 2016 USD,7,12,3
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",msk_pain,Low back and neck pain,Inpatient Care,Spending per capita in 2016 USD,36,82,0
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",msk_pain,Low back and neck pain,Nursing Facility Care,Spending per capita in 2016 USD,0,1,0
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",msk_pain,Low back and neck pain,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,4,7,1
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",msk_pain,Low back and neck pain,Total,Spending per capita in 2016 USD,111,161,66
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_asthma,Asthma,Ambulatory Care,Spending per capita in 2016 USD,13,18,9
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_asthma,Asthma,Emergency Department Care,Spending per capita in 2016 USD,5,8,1
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_asthma,Asthma,Inpatient Care,Spending per capita in 2016 USD,9,23,1
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_asthma,Asthma,Nursing Facility Care,Spending per capita in 2016 USD,1,3,0
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_asthma,Asthma,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,26,37,18
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_asthma,Asthma,Total,Spending per capita in 2016 USD,54,71,39
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_copd,COPD,Ambulatory Care,Spending per capita in 2016 USD,8,13,3
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_copd,COPD,Emergency Department Care,Spending per capita in 2016 USD,3,7,0
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_copd,COPD,Inpatient Care,Spending per capita in 2016 USD,26,50,8
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_copd,COPD,Nursing Facility Care,Spending per capita in 2016 USD,0,5,0
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_copd,COPD,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,3,5,2
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",resp_copd,COPD,Total,Spending per capita in 2016 USD,41,65,21
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",rf_hypertension,Hypertension,Ambulatory Care,Spending per capita in 2016 USD,81,95,65
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",rf_hypertension,Hypertension,Emergency Department Care,Spending per capita in 2016 USD,10,16,3
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",rf_hypertension,Hypertension,Inpatient Care,Spending per capita in 2016 USD,15,24,5
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",rf_hypertension,Hypertension,Nursing Facility Care,Spending per capita in 2016 USD,4,15,0
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",rf_hypertension,Hypertension,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,37,42,31
+2009,22,All Ages,1,Male,"Asian, Native Hawaiian, Pacific Islander (non-Hispanic)",rf_hypertension,Hypertension,Total,Spending per capita in 2016 USD,146,167,126
+2009,22,All Ages,1,Male,Black (non-Hispanic),all,All conditions,Ambulatory Care,Spending per capita in 2016 USD,1263,1383,1156
+2009,22,All Ages,1,Male,Black (non-Hispanic),all,All conditions,Dental Care,Spending per capita in 2016 USD,198,228,178
+2009,22,All Ages,1,Male,Black (non-Hispanic),all,All conditions,Emergency Department Care,Spending per capita in 2016 USD,277,301,257
+2009,22,All Ages,1,Male,Black (non-Hispanic),all,All conditions,Inpatient Care,Spending per capita in 2016 USD,2264,2433,2100
+2009,22,All Ages,1,Male,Black (non-Hispanic),all,All conditions,Nursing Facility Care,Spending per capita in 2016 USD,402,494,310
+2009,22,All Ages,1,Male,Black (non-Hispanic),all,All conditions,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,600,658,556
+2009,22,All Ages,1,Male,Black (non-Hispanic),all,All conditions,Total,Spending per capita in 2016 USD,5004,5239,4726
+2009,22,All Ages,1,Male,Black (non-Hispanic),cvd,Cardiovascular diseases,Ambulatory Care,Spending per capita in 2016 USD,86,114,65
+2009,22,All Ages,1,Male,Black (non-Hispanic),cvd,Cardiovascular diseases,Emergency Department Care,Spending per capita in 2016 USD,35,46,25
+2009,22,All Ages,1,Male,Black (non-Hispanic),cvd,Cardiovascular diseases,Inpatient Care,Spending per capita in 2016 USD,532,684,415
+2009,22,All Ages,1,Male,Black (non-Hispanic),cvd,Cardiovascular diseases,Nursing Facility Care,Spending per capita in 2016 USD,71,108,41
+2009,22,All Ages,1,Male,Black (non-Hispanic),cvd,Cardiovascular diseases,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,45,52,36
+2009,22,All Ages,1,Male,Black (non-Hispanic),cvd,Cardiovascular diseases,Total,Spending per capita in 2016 USD,770,923,646
+2009,22,All Ages,1,Male,Black (non-Hispanic),cvd_stroke,Cerebrovascular disease,Ambulatory Care,Spending per capita in 2016 USD,15,22,11
+2009,22,All Ages,1,Male,Black (non-Hispanic),cvd_stroke,Cerebrovascular disease,Emergency Department Care,Spending per capita in 2016 USD,8,11,5
+2009,22,All Ages,1,Male,Black (non-Hispanic),cvd_stroke,Cerebrovascular disease,Inpatient Care,Spending per capita in 2016 USD,114,156,74
+2009,22,All Ages,1,Male,Black (non-Hispanic),cvd_stroke,Cerebrovascular disease,Nursing Facility Care,Spending per capita in 2016 USD,48,73,25
+2009,22,All Ages,1,Male,Black (non-Hispanic),cvd_stroke,Cerebrovascular disease,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,3,4,2
+2009,22,All Ages,1,Male,Black (non-Hispanic),cvd_stroke,Cerebrovascular disease,Total,Spending per capita in 2016 USD,187,246,143
+2009,22,All Ages,1,Male,Black (non-Hispanic),diabetes,Diabetes mellitus,Ambulatory Care,Spending per capita in 2016 USD,61,73,51
+2009,22,All Ages,1,Male,Black (non-Hispanic),diabetes,Diabetes mellitus,Emergency Department Care,Spending per capita in 2016 USD,10,14,8
+2009,22,All Ages,1,Male,Black (non-Hispanic),diabetes,Diabetes mellitus,Inpatient Care,Spending per capita in 2016 USD,71,97,51
+2009,22,All Ages,1,Male,Black (non-Hispanic),diabetes,Diabetes mellitus,Nursing Facility Care,Spending per capita in 2016 USD,28,44,10
+2009,22,All Ages,1,Male,Black (non-Hispanic),diabetes,Diabetes mellitus,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,55,61,49
+2009,22,All Ages,1,Male,Black (non-Hispanic),diabetes,Diabetes mellitus,Total,Spending per capita in 2016 USD,224,261,196
+2009,22,All Ages,1,Male,Black (non-Hispanic),msk_pain,Low back and neck pain,Ambulatory Care,Spending per capita in 2016 USD,78,93,52
+2009,22,All Ages,1,Male,Black (non-Hispanic),msk_pain,Low back and neck pain,Emergency Department Care,Spending per capita in 2016 USD,18,22,14
+2009,22,All Ages,1,Male,Black (non-Hispanic),msk_pain,Low back and neck pain,Inpatient Care,Spending per capita in 2016 USD,93,133,53
+2009,22,All Ages,1,Male,Black (non-Hispanic),msk_pain,Low back and neck pain,Nursing Facility Care,Spending per capita in 2016 USD,1,2,0
+2009,22,All Ages,1,Male,Black (non-Hispanic),msk_pain,Low back and neck pain,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,7,9,5
+2009,22,All Ages,1,Male,Black (non-Hispanic),msk_pain,Low back and neck pain,Total,Spending per capita in 2016 USD,197,242,137
+2009,22,All Ages,1,Male,Black (non-Hispanic),resp_asthma,Asthma,Ambulatory Care,Spending per capita in 2016 USD,19,23,15
+2009,22,All Ages,1,Male,Black (non-Hispanic),resp_asthma,Asthma,Emergency Department Care,Spending per capita in 2016 USD,17,21,14
+2009,22,All Ages,1,Male,Black (non-Hispanic),resp_asthma,Asthma,Inpatient Care,Spending per capita in 2016 USD,27,35,16
+2009,22,All Ages,1,Male,Black (non-Hispanic),resp_asthma,Asthma,Nursing Facility Care,Spending per capita in 2016 USD,0,1,0
+2009,22,All Ages,1,Male,Black (non-Hispanic),resp_asthma,Asthma,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,51,60,44
+2009,22,All Ages,1,Male,Black (non-Hispanic),resp_asthma,Asthma,Total,Spending per capita in 2016 USD,114,127,100
+2009,22,All Ages,1,Male,Black (non-Hispanic),resp_copd,COPD,Ambulatory Care,Spending per capita in 2016 USD,9,14,6
+2009,22,All Ages,1,Male,Black (non-Hispanic),resp_copd,COPD,Emergency Department Care,Spending per capita in 2016 USD,10,14,6
+2009,22,All Ages,1,Male,Black (non-Hispanic),resp_copd,COPD,Inpatient Care,Spending per capita in 2016 USD,47,62,30
+2009,22,All Ages,1,Male,Black (non-Hispanic),resp_copd,COPD,Nursing Facility Care,Spending per capita in 2016 USD,6,12,2
+2009,22,All Ages,1,Male,Black (non-Hispanic),resp_copd,COPD,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,9,11,6
+2009,22,All Ages,1,Male,Black (non-Hispanic),resp_copd,COPD,Total,Spending per capita in 2016 USD,81,100,62
+2009,22,All Ages,1,Male,Black (non-Hispanic),rf_hypertension,Hypertension,Ambulatory Care,Spending per capita in 2016 USD,116,133,99
+2009,22,All Ages,1,Male,Black (non-Hispanic),rf_hypertension,Hypertension,Emergency Department Care,Spending per capita in 2016 USD,23,30,16
+2009,22,All Ages,1,Male,Black (non-Hispanic),rf_hypertension,Hypertension,Inpatient Care,Spending per capita in 2016 USD,37,45,29
+2009,22,All Ages,1,Male,Black (non-Hispanic),rf_hypertension,Hypertension,Nursing Facility Care,Spending per capita in 2016 USD,30,52,14
+2009,22,All Ages,1,Male,Black (non-Hispanic),rf_hypertension,Hypertension,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,53,59,50
+2009,22,All Ages,1,Male,Black (non-Hispanic),rf_hypertension,Hypertension,Total,Spending per capita in 2016 USD,259,290,230
+2009,22,All Ages,1,Male,Hispanic,all,All conditions,Ambulatory Care,Spending per capita in 2016 USD,785,855,721
+2009,22,All Ages,1,Male,Hispanic,all,All conditions,Dental Care,Spending per capita in 2016 USD,194,213,181
+2009,22,All Ages,1,Male,Hispanic,all,All conditions,Emergency Department Care,Spending per capita in 2016 USD,208,226,194
+2009,22,All Ages,1,Male,Hispanic,all,All conditions,Inpatient Care,Spending per capita in 2016 USD,1239,1474,1068
+2009,22,All Ages,1,Male,Hispanic,all,All conditions,Nursing Facility Care,Spending per capita in 2016 USD,93,131,56
+2009,22,All Ages,1,Male,Hispanic,all,All conditions,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,434,493,394
+2009,22,All Ages,1,Male,Hispanic,all,All conditions,Total,Spending per capita in 2016 USD,2953,3137,2752
+2009,22,All Ages,1,Male,Hispanic,cvd,Cardiovascular diseases,Ambulatory Care,Spending per capita in 2016 USD,38,46,28
+2009,22,All Ages,1,Male,Hispanic,cvd,Cardiovascular diseases,Emergency Department Care,Spending per capita in 2016 USD,22,30,14
+2009,22,All Ages,1,Male,Hispanic,cvd,Cardiovascular diseases,Inpatient Care,Spending per capita in 2016 USD,234,289,162
+2009,22,All Ages,1,Male,Hispanic,cvd,Cardiovascular diseases,Nursing Facility Care,Spending per capita in 2016 USD,22,36,9
+2009,22,All Ages,1,Male,Hispanic,cvd,Cardiovascular diseases,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,26,30,22
+2009,22,All Ages,1,Male,Hispanic,cvd,Cardiovascular diseases,Total,Spending per capita in 2016 USD,341,402,276
+2009,22,All Ages,1,Male,Hispanic,cvd_stroke,Cerebrovascular disease,Ambulatory Care,Spending per capita in 2016 USD,5,7,3
+2009,22,All Ages,1,Male,Hispanic,cvd_stroke,Cerebrovascular disease,Emergency Department Care,Spending per capita in 2016 USD,4,5,2
+2009,22,All Ages,1,Male,Hispanic,cvd_stroke,Cerebrovascular disease,Inpatient Care,Spending per capita in 2016 USD,45,63,30
+2009,22,All Ages,1,Male,Hispanic,cvd_stroke,Cerebrovascular disease,Nursing Facility Care,Spending per capita in 2016 USD,9,18,1
+2009,22,All Ages,1,Male,Hispanic,cvd_stroke,Cerebrovascular disease,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,1,2,1
+2009,22,All Ages,1,Male,Hispanic,cvd_stroke,Cerebrovascular disease,Total,Spending per capita in 2016 USD,64,87,47
+2009,22,All Ages,1,Male,Hispanic,diabetes,Diabetes mellitus,Ambulatory Care,Spending per capita in 2016 USD,49,58,38
+2009,22,All Ages,1,Male,Hispanic,diabetes,Diabetes mellitus,Emergency Department Care,Spending per capita in 2016 USD,6,8,2
+2009,22,All Ages,1,Male,Hispanic,diabetes,Diabetes mellitus,Inpatient Care,Spending per capita in 2016 USD,38,52,29
+2009,22,All Ages,1,Male,Hispanic,diabetes,Diabetes mellitus,Nursing Facility Care,Spending per capita in 2016 USD,7,16,1
+2009,22,All Ages,1,Male,Hispanic,diabetes,Diabetes mellitus,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,37,42,32
+2009,22,All Ages,1,Male,Hispanic,diabetes,Diabetes mellitus,Total,Spending per capita in 2016 USD,137,159,119
+2009,22,All Ages,1,Male,Hispanic,msk_pain,Low back and neck pain,Ambulatory Care,Spending per capita in 2016 USD,63,80,51
+2009,22,All Ages,1,Male,Hispanic,msk_pain,Low back and neck pain,Emergency Department Care,Spending per capita in 2016 USD,10,13,7
+2009,22,All Ages,1,Male,Hispanic,msk_pain,Low back and neck pain,Inpatient Care,Spending per capita in 2016 USD,51,76,19
+2009,22,All Ages,1,Male,Hispanic,msk_pain,Low back and neck pain,Nursing Facility Care,Spending per capita in 2016 USD,1,2,0
+2009,22,All Ages,1,Male,Hispanic,msk_pain,Low back and neck pain,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,5,7,3
+2009,22,All Ages,1,Male,Hispanic,msk_pain,Low back and neck pain,Total,Spending per capita in 2016 USD,129,158,100
+2009,22,All Ages,1,Male,Hispanic,resp_asthma,Asthma,Ambulatory Care,Spending per capita in 2016 USD,15,20,12
+2009,22,All Ages,1,Male,Hispanic,resp_asthma,Asthma,Emergency Department Care,Spending per capita in 2016 USD,9,11,7
+2009,22,All Ages,1,Male,Hispanic,resp_asthma,Asthma,Inpatient Care,Spending per capita in 2016 USD,11,16,6
+2009,22,All Ages,1,Male,Hispanic,resp_asthma,Asthma,Nursing Facility Care,Spending per capita in 2016 USD,0,0,0
+2009,22,All Ages,1,Male,Hispanic,resp_asthma,Asthma,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,26,30,22
+2009,22,All Ages,1,Male,Hispanic,resp_asthma,Asthma,Total,Spending per capita in 2016 USD,62,70,53
+2009,22,All Ages,1,Male,Hispanic,resp_copd,COPD,Ambulatory Care,Spending per capita in 2016 USD,5,7,4
+2009,22,All Ages,1,Male,Hispanic,resp_copd,COPD,Emergency Department Care,Spending per capita in 2016 USD,4,6,2
+2009,22,All Ages,1,Male,Hispanic,resp_copd,COPD,Inpatient Care,Spending per capita in 2016 USD,18,28,10
+2009,22,All Ages,1,Male,Hispanic,resp_copd,COPD,Nursing Facility Care,Spending per capita in 2016 USD,2,3,0
+2009,22,All Ages,1,Male,Hispanic,resp_copd,COPD,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,3,4,2
+2009,22,All Ages,1,Male,Hispanic,resp_copd,COPD,Total,Spending per capita in 2016 USD,32,43,23
+2009,22,All Ages,1,Male,Hispanic,rf_hypertension,Hypertension,Ambulatory Care,Spending per capita in 2016 USD,60,73,50
+2009,22,All Ages,1,Male,Hispanic,rf_hypertension,Hypertension,Emergency Department Care,Spending per capita in 2016 USD,11,14,9
+2009,22,All Ages,1,Male,Hispanic,rf_hypertension,Hypertension,Inpatient Care,Spending per capita in 2016 USD,10,14,6
+2009,22,All Ages,1,Male,Hispanic,rf_hypertension,Hypertension,Nursing Facility Care,Spending per capita in 2016 USD,2,7,0
+2009,22,All Ages,1,Male,Hispanic,rf_hypertension,Hypertension,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,20,23,18
+2009,22,All Ages,1,Male,Hispanic,rf_hypertension,Hypertension,Total,Spending per capita in 2016 USD,104,118,91
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),all,All conditions,Ambulatory Care,Spending per capita in 2016 USD,1268,1537,993
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),all,All conditions,Dental Care,Spending per capita in 2016 USD,353,449,303
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),all,All conditions,Emergency Department Care,Spending per capita in 2016 USD,349,416,232
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),all,All conditions,Inpatient Care,Spending per capita in 2016 USD,1301,1901,804
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),all,All conditions,Nursing Facility Care,Spending per capita in 2016 USD,140,252,55
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),all,All conditions,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,608,742,485
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),all,All conditions,Total,Spending per capita in 2016 USD,4019,4780,3519
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),cvd,Cardiovascular diseases,Ambulatory Care,Spending per capita in 2016 USD,49,79,22
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),cvd,Cardiovascular diseases,Emergency Department Care,Spending per capita in 2016 USD,28,55,1
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),cvd,Cardiovascular diseases,Inpatient Care,Spending per capita in 2016 USD,242,433,65
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),cvd,Cardiovascular diseases,Nursing Facility Care,Spending per capita in 2016 USD,3,9,0
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),cvd,Cardiovascular diseases,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,25,38,14
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),cvd,Cardiovascular diseases,Total,Spending per capita in 2016 USD,347,529,168
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),cvd_stroke,Cerebrovascular disease,Ambulatory Care,Spending per capita in 2016 USD,10,20,3
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),cvd_stroke,Cerebrovascular disease,Emergency Department Care,Spending per capita in 2016 USD,4,11,0
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),cvd_stroke,Cerebrovascular disease,Inpatient Care,Spending per capita in 2016 USD,52,103,16
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),cvd_stroke,Cerebrovascular disease,Nursing Facility Care,Spending per capita in 2016 USD,2,7,0
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),cvd_stroke,Cerebrovascular disease,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,1,3,0
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),cvd_stroke,Cerebrovascular disease,Total,Spending per capita in 2016 USD,69,117,35
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),diabetes,Diabetes mellitus,Ambulatory Care,Spending per capita in 2016 USD,35,63,8
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),diabetes,Diabetes mellitus,Emergency Department Care,Spending per capita in 2016 USD,5,13,0
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),diabetes,Diabetes mellitus,Inpatient Care,Spending per capita in 2016 USD,21,46,0
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),diabetes,Diabetes mellitus,Nursing Facility Care,Spending per capita in 2016 USD,0,0,0
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),diabetes,Diabetes mellitus,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,34,45,18
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),diabetes,Diabetes mellitus,Total,Spending per capita in 2016 USD,95,138,51
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),msk_pain,Low back and neck pain,Ambulatory Care,Spending per capita in 2016 USD,83,125,42
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),msk_pain,Low back and neck pain,Emergency Department Care,Spending per capita in 2016 USD,7,15,1
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),msk_pain,Low back and neck pain,Inpatient Care,Spending per capita in 2016 USD,58,149,3
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),msk_pain,Low back and neck pain,Nursing Facility Care,Spending per capita in 2016 USD,0,0,0
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),msk_pain,Low back and neck pain,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,10,15,5
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),msk_pain,Low back and neck pain,Total,Spending per capita in 2016 USD,157,290,84
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),resp_asthma,Asthma,Ambulatory Care,Spending per capita in 2016 USD,23,34,11
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),resp_asthma,Asthma,Emergency Department Care,Spending per capita in 2016 USD,13,21,6
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),resp_asthma,Asthma,Inpatient Care,Spending per capita in 2016 USD,30,57,11
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),resp_asthma,Asthma,Nursing Facility Care,Spending per capita in 2016 USD,0,2,0
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),resp_asthma,Asthma,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,69,98,43
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),resp_asthma,Asthma,Total,Spending per capita in 2016 USD,136,178,89
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),resp_copd,COPD,Ambulatory Care,Spending per capita in 2016 USD,9,15,3
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),resp_copd,COPD,Emergency Department Care,Spending per capita in 2016 USD,8,17,0
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),resp_copd,COPD,Inpatient Care,Spending per capita in 2016 USD,21,64,0
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),resp_copd,COPD,Nursing Facility Care,Spending per capita in 2016 USD,8,22,0
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),resp_copd,COPD,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,10,21,2
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),resp_copd,COPD,Total,Spending per capita in 2016 USD,57,108,23
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),rf_hypertension,Hypertension,Ambulatory Care,Spending per capita in 2016 USD,69,108,41
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),rf_hypertension,Hypertension,Emergency Department Care,Spending per capita in 2016 USD,7,16,0
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),rf_hypertension,Hypertension,Inpatient Care,Spending per capita in 2016 USD,20,40,4
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),rf_hypertension,Hypertension,Nursing Facility Care,Spending per capita in 2016 USD,27,65,0
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),rf_hypertension,Hypertension,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,27,42,19
+2009,22,All Ages,1,Male,Multiple races (non-Hispanic),rf_hypertension,Hypertension,Total,Spending per capita in 2016 USD,150,212,92
+2009,22,All Ages,1,Male,Total,all,All conditions,Ambulatory Care,Spending per capita in 2016 USD,1744,1785,1712
+2009,22,All Ages,1,Male,Total,all,All conditions,Dental Care,Spending per capita in 2016 USD,328,336,316
+2009,22,All Ages,1,Male,Total,all,All conditions,Emergency Department Care,Spending per capita in 2016 USD,274,278,271
+2009,22,All Ages,1,Male,Total,all,All conditions,Inpatient Care,Spending per capita in 2016 USD,2088,2125,2063
+2009,22,All Ages,1,Male,Total,all,All conditions,Nursing Facility Care,Spending per capita in 2016 USD,326,344,312
+2009,22,All Ages,1,Male,Total,all,All conditions,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,785,797,770
+2009,22,All Ages,1,Male,Total,all,All conditions,Total,Spending per capita in 2016 USD,5545,5606,5493
+2009,22,All Ages,1,Male,Total,cvd,Cardiovascular diseases,Ambulatory Care,Spending per capita in 2016 USD,130,141,119
+2009,22,All Ages,1,Male,Total,cvd,Cardiovascular diseases,Emergency Department Care,Spending per capita in 2016 USD,28,32,26
+2009,22,All Ages,1,Male,Total,cvd,Cardiovascular diseases,Inpatient Care,Spending per capita in 2016 USD,509,568,471
+2009,22,All Ages,1,Male,Total,cvd,Cardiovascular diseases,Nursing Facility Care,Spending per capita in 2016 USD,62,66,57
+2009,22,All Ages,1,Male,Total,cvd,Cardiovascular diseases,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,61,65,58
+2009,22,All Ages,1,Male,Total,cvd,Cardiovascular diseases,Total,Spending per capita in 2016 USD,790,853,749
+2009,22,All Ages,1,Male,Total,cvd_stroke,Cerebrovascular disease,Ambulatory Care,Spending per capita in 2016 USD,10,13,9
+2009,22,All Ages,1,Male,Total,cvd_stroke,Cerebrovascular disease,Emergency Department Care,Spending per capita in 2016 USD,4,5,4
+2009,22,All Ages,1,Male,Total,cvd_stroke,Cerebrovascular disease,Inpatient Care,Spending per capita in 2016 USD,56,62,52
+2009,22,All Ages,1,Male,Total,cvd_stroke,Cerebrovascular disease,Nursing Facility Care,Spending per capita in 2016 USD,30,33,26
+2009,22,All Ages,1,Male,Total,cvd_stroke,Cerebrovascular disease,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,2,2,2
+2009,22,All Ages,1,Male,Total,cvd_stroke,Cerebrovascular disease,Total,Spending per capita in 2016 USD,103,110,96
+2009,22,All Ages,1,Male,Total,diabetes,Diabetes mellitus,Ambulatory Care,Spending per capita in 2016 USD,68,75,62
+2009,22,All Ages,1,Male,Total,diabetes,Diabetes mellitus,Emergency Department Care,Spending per capita in 2016 USD,5,5,4
+2009,22,All Ages,1,Male,Total,diabetes,Diabetes mellitus,Inpatient Care,Spending per capita in 2016 USD,29,32,26
+2009,22,All Ages,1,Male,Total,diabetes,Diabetes mellitus,Nursing Facility Care,Spending per capita in 2016 USD,16,19,13
+2009,22,All Ages,1,Male,Total,diabetes,Diabetes mellitus,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,54,57,50
+2009,22,All Ages,1,Male,Total,diabetes,Diabetes mellitus,Total,Spending per capita in 2016 USD,170,179,162
+2009,22,All Ages,1,Male,Total,msk_pain,Low back and neck pain,Ambulatory Care,Spending per capita in 2016 USD,134,150,121
+2009,22,All Ages,1,Male,Total,msk_pain,Low back and neck pain,Emergency Department Care,Spending per capita in 2016 USD,9,10,9
+2009,22,All Ages,1,Male,Total,msk_pain,Low back and neck pain,Inpatient Care,Spending per capita in 2016 USD,79,84,74
+2009,22,All Ages,1,Male,Total,msk_pain,Low back and neck pain,Nursing Facility Care,Spending per capita in 2016 USD,3,6,2
+2009,22,All Ages,1,Male,Total,msk_pain,Low back and neck pain,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,10,12,8
+2009,22,All Ages,1,Male,Total,msk_pain,Low back and neck pain,Total,Spending per capita in 2016 USD,235,250,219
+2009,22,All Ages,1,Male,Total,resp_asthma,Asthma,Ambulatory Care,Spending per capita in 2016 USD,15,17,12
+2009,22,All Ages,1,Male,Total,resp_asthma,Asthma,Emergency Department Care,Spending per capita in 2016 USD,7,7,6
+2009,22,All Ages,1,Male,Total,resp_asthma,Asthma,Inpatient Care,Spending per capita in 2016 USD,10,11,10
+2009,22,All Ages,1,Male,Total,resp_asthma,Asthma,Nursing Facility Care,Spending per capita in 2016 USD,1,1,0
+2009,22,All Ages,1,Male,Total,resp_asthma,Asthma,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,42,47,38
+2009,22,All Ages,1,Male,Total,resp_asthma,Asthma,Total,Spending per capita in 2016 USD,74,81,70
+2009,22,All Ages,1,Male,Total,resp_copd,COPD,Ambulatory Care,Spending per capita in 2016 USD,16,19,14
+2009,22,All Ages,1,Male,Total,resp_copd,COPD,Emergency Department Care,Spending per capita in 2016 USD,6,7,5
+2009,22,All Ages,1,Male,Total,resp_copd,COPD,Inpatient Care,Spending per capita in 2016 USD,30,34,27
+2009,22,All Ages,1,Male,Total,resp_copd,COPD,Nursing Facility Care,Spending per capita in 2016 USD,8,9,7
+2009,22,All Ages,1,Male,Total,resp_copd,COPD,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,18,21,15
+2009,22,All Ages,1,Male,Total,resp_copd,COPD,Total,Spending per capita in 2016 USD,78,85,72
+2009,22,All Ages,1,Male,Total,rf_hypertension,Hypertension,Ambulatory Care,Spending per capita in 2016 USD,106,116,98
+2009,22,All Ages,1,Male,Total,rf_hypertension,Hypertension,Emergency Department Care,Spending per capita in 2016 USD,9,10,8
+2009,22,All Ages,1,Male,Total,rf_hypertension,Hypertension,Inpatient Care,Spending per capita in 2016 USD,13,13,12
+2009,22,All Ages,1,Male,Total,rf_hypertension,Hypertension,Nursing Facility Care,Spending per capita in 2016 USD,14,17,12
+2009,22,All Ages,1,Male,Total,rf_hypertension,Hypertension,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,46,48,43
+2009,22,All Ages,1,Male,Total,rf_hypertension,Hypertension,Total,Spending per capita in 2016 USD,187,198,177
+2009,22,All Ages,1,Male,White (non-Hispanic),all,All conditions,Ambulatory Care,Spending per capita in 2016 USD,2158,2226,2111
+2009,22,All Ages,1,Male,White (non-Hispanic),all,All conditions,Dental Care,Spending per capita in 2016 USD,388,400,371
+2009,22,All Ages,1,Male,White (non-Hispanic),all,All conditions,Emergency Department Care,Spending per capita in 2016 USD,297,304,290
+2009,22,All Ages,1,Male,White (non-Hispanic),all,All conditions,Inpatient Care,Spending per capita in 2016 USD,2354,2430,2284
+2009,22,All Ages,1,Male,White (non-Hispanic),all,All conditions,Nursing Facility Care,Spending per capita in 2016 USD,399,424,369
+2009,22,All Ages,1,Male,White (non-Hispanic),all,All conditions,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,937,956,909
+2009,22,All Ages,1,Male,White (non-Hispanic),all,All conditions,Total,Spending per capita in 2016 USD,6533,6631,6440
+2009,22,All Ages,1,Male,White (non-Hispanic),cvd,Cardiovascular diseases,Ambulatory Care,Spending per capita in 2016 USD,169,185,155
+2009,22,All Ages,1,Male,White (non-Hispanic),cvd,Cardiovascular diseases,Emergency Department Care,Spending per capita in 2016 USD,30,34,27
+2009,22,All Ages,1,Male,White (non-Hispanic),cvd,Cardiovascular diseases,Inpatient Care,Spending per capita in 2016 USD,595,671,538
+2009,22,All Ages,1,Male,White (non-Hispanic),cvd,Cardiovascular diseases,Nursing Facility Care,Spending per capita in 2016 USD,77,85,68
+2009,22,All Ages,1,Male,White (non-Hispanic),cvd,Cardiovascular diseases,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,77,82,72
+2009,22,All Ages,1,Male,White (non-Hispanic),cvd,Cardiovascular diseases,Total,Spending per capita in 2016 USD,947,1028,888
+2009,22,All Ages,1,Male,White (non-Hispanic),cvd_stroke,Cerebrovascular disease,Ambulatory Care,Spending per capita in 2016 USD,11,14,9
+2009,22,All Ages,1,Male,White (non-Hispanic),cvd_stroke,Cerebrovascular disease,Emergency Department Care,Spending per capita in 2016 USD,3,4,2
+2009,22,All Ages,1,Male,White (non-Hispanic),cvd_stroke,Cerebrovascular disease,Inpatient Care,Spending per capita in 2016 USD,48,56,40
+2009,22,All Ages,1,Male,White (non-Hispanic),cvd_stroke,Cerebrovascular disease,Nursing Facility Care,Spending per capita in 2016 USD,35,41,29
+2009,22,All Ages,1,Male,White (non-Hispanic),cvd_stroke,Cerebrovascular disease,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,2,2,2
+2009,22,All Ages,1,Male,White (non-Hispanic),cvd_stroke,Cerebrovascular disease,Total,Spending per capita in 2016 USD,100,110,89
+2009,22,All Ages,1,Male,White (non-Hispanic),diabetes,Diabetes mellitus,Ambulatory Care,Spending per capita in 2016 USD,75,82,68
+2009,22,All Ages,1,Male,White (non-Hispanic),diabetes,Diabetes mellitus,Emergency Department Care,Spending per capita in 2016 USD,3,4,3
+2009,22,All Ages,1,Male,White (non-Hispanic),diabetes,Diabetes mellitus,Inpatient Care,Spending per capita in 2016 USD,20,25,13
+2009,22,All Ages,1,Male,White (non-Hispanic),diabetes,Diabetes mellitus,Nursing Facility Care,Spending per capita in 2016 USD,17,23,13
+2009,22,All Ages,1,Male,White (non-Hispanic),diabetes,Diabetes mellitus,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,59,63,54
+2009,22,All Ages,1,Male,White (non-Hispanic),diabetes,Diabetes mellitus,Total,Spending per capita in 2016 USD,175,184,163
+2009,22,All Ages,1,Male,White (non-Hispanic),msk_pain,Low back and neck pain,Ambulatory Care,Spending per capita in 2016 USD,171,188,154
+2009,22,All Ages,1,Male,White (non-Hispanic),msk_pain,Low back and neck pain,Emergency Department Care,Spending per capita in 2016 USD,8,9,7
+2009,22,All Ages,1,Male,White (non-Hispanic),msk_pain,Low back and neck pain,Inpatient Care,Spending per capita in 2016 USD,88,105,79
+2009,22,All Ages,1,Male,White (non-Hispanic),msk_pain,Low back and neck pain,Nursing Facility Care,Spending per capita in 2016 USD,4,9,2
+2009,22,All Ages,1,Male,White (non-Hispanic),msk_pain,Low back and neck pain,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,13,15,10
+2009,22,All Ages,1,Male,White (non-Hispanic),msk_pain,Low back and neck pain,Total,Spending per capita in 2016 USD,283,304,259
+2009,22,All Ages,1,Male,White (non-Hispanic),resp_asthma,Asthma,Ambulatory Care,Spending per capita in 2016 USD,14,16,11
+2009,22,All Ages,1,Male,White (non-Hispanic),resp_asthma,Asthma,Emergency Department Care,Spending per capita in 2016 USD,4,5,3
+2009,22,All Ages,1,Male,White (non-Hispanic),resp_asthma,Asthma,Inpatient Care,Spending per capita in 2016 USD,6,8,5
+2009,22,All Ages,1,Male,White (non-Hispanic),resp_asthma,Asthma,Nursing Facility Care,Spending per capita in 2016 USD,1,2,0
+2009,22,All Ages,1,Male,White (non-Hispanic),resp_asthma,Asthma,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,45,49,41
+2009,22,All Ages,1,Male,White (non-Hispanic),resp_asthma,Asthma,Total,Spending per capita in 2016 USD,70,78,64
+2009,22,All Ages,1,Male,White (non-Hispanic),resp_copd,COPD,Ambulatory Care,Spending per capita in 2016 USD,21,25,18
+2009,22,All Ages,1,Male,White (non-Hispanic),resp_copd,COPD,Emergency Department Care,Spending per capita in 2016 USD,6,7,5
+2009,22,All Ages,1,Male,White (non-Hispanic),resp_copd,COPD,Inpatient Care,Spending per capita in 2016 USD,30,37,25
+2009,22,All Ages,1,Male,White (non-Hispanic),resp_copd,COPD,Nursing Facility Care,Spending per capita in 2016 USD,11,13,9
+2009,22,All Ages,1,Male,White (non-Hispanic),resp_copd,COPD,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,25,29,20
+2009,22,All Ages,1,Male,White (non-Hispanic),resp_copd,COPD,Total,Spending per capita in 2016 USD,93,103,84
+2009,22,All Ages,1,Male,White (non-Hispanic),rf_hypertension,Hypertension,Ambulatory Care,Spending per capita in 2016 USD,120,131,108
+2009,22,All Ages,1,Male,White (non-Hispanic),rf_hypertension,Hypertension,Emergency Department Care,Spending per capita in 2016 USD,5,6,4
+2009,22,All Ages,1,Male,White (non-Hispanic),rf_hypertension,Hypertension,Inpatient Care,Spending per capita in 2016 USD,8,10,7
+2009,22,All Ages,1,Male,White (non-Hispanic),rf_hypertension,Hypertension,Nursing Facility Care,Spending per capita in 2016 USD,14,19,11
+2009,22,All Ages,1,Male,White (non-Hispanic),rf_hypertension,Hypertension,Prescribed Pharmaceuticals,Spending per capita in 2016 USD,52,55,50
+2009,22,All Ages,1,Male,White (non-Hispanic),rf_hypertension,Hypertension,Total,Spending per capita in 2016 USD,200,213,186

@@ -1,0 +1,40 @@
+,,All,White,Black,Hispanic,Asian,Other,P Value
+,,,,,,,,
+Sociodemographic characteristics,,,,,,,,
+Gender,,,,,,,,
+,Male,41.7,41.9,38.3,42.8,41,43.8,<0.01
+,Female,58.3,58.1,61.7,57.2,59,56.2,
+Age group,,,,,,,,
+,65 to 74 y,44.4,43.5,48.8,49.9,45.9,57.9,<0.01
+,75 to 84 y,37.4,37.6,35.4,36.6,38,33.4,
+,85+ y,18.3,18.9,15.8,13.5,16,8.7,
+Region,,,,,,,,
+,Northeast,19.1,19.8,15.1,15.2,16.3,15.6,<0.01
+,Midwest,24.2,25.8,19.7,8.9,9.1,15.8,
+,South,39.8,38.9,58.5,41.2,19,29.7,
+,West,16.9,15.6,6.7,34.8,55.6,38.8,
+,,,,,,,,
+Geographical characteristics,,,,,,,,
+Urban type,,,,,,,,
+,Metropolitan,77.5,75.9,84.9,89.7,96.1,70.3,<0.01
+,Urban area,12.4,13.3,7.8,6.7,3.1,15.3,
+,Rural,10.1,10.8,7.3,3.6,0.8,14.4,
+Physician availability,,,,,,,,
+,"# of physicians/100k, average",208,207,216,198,224,217,<0.01
+,"# of primary care physician/100k, average",74.5,74.3,76.3,70.9,81,81.2,<0.01
+Proximity to a nearest hospital,,,,,,,,
+,≤1 mile from a hospital,24.2,22.6,32.8,35.6,38.9,24.1,<0.01
+,≤5 mile from a hospital,35.4,35.2,38.8,33.3,41.2,30.6,
+,>5 mile from a hospital,40.4,42.3,28.4,31.1,19.8,45.4,
+Cardiac comorbidities,,,,,,,,
+,Atrial fibrillation,9,9.7,4.5,4.9,4.9,5.1,<0.01
+,Chronic kidney disease,12.7,12.1,19.6,14,11.9,12.5,<0.01
+,Congestive heart failure,16.2,15.9,20.7,17.4,12.6,13.6,<0.01
+,Diabetes mellitus,27.1,25.1,40.4,39.7,35.3,34.7,<0.01
+,Ischemic heart disease,33.4,33.7,31.6,34.8,29.3,29.3,<0.01
+,Depression,10.7,11,8.1,12.4,5.4,8.6,<0.01
+,Stroke/TIA,4.2,4,6,4.3,3.5,3.4,<0.01
+,Cancer,8.4,9.4,10,6.5,5.8,7.2,<0.01
+,Anemia,23.9,23,31.7,28.7,27.2,21.4,<0.01
+,Hyperlipidemia,48.8,49.1,45.1,48.1,51.9,43.9,<0.01
+,Hypertension,61.2,60.2,73,62.1,62.8,57.9,<0.01
